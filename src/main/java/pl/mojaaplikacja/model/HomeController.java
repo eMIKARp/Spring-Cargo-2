@@ -11,6 +11,6 @@ public class HomeController {
 	@ResponseBody
 	public String home() {
 		
-		return "Hi Skarbulek";
+		return "Hi Skarbulsdfdsfek";
 	}
 }
