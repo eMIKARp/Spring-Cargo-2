@@ -11,6 +11,6 @@ public class HomeController {
 	@ResponseBody
 	public String home() {
 		
-		return "Welcome to webapp deployed by Jenkins";
+		return "Hi Skarbulek";
 	}
 }
